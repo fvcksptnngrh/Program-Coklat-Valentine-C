@@ -22,7 +22,7 @@ Program ini menggunakan Bahasa Indonesia.
     * Windows: `valentine.exe`
     * Linux/macOS: `./valentine`
 
-## Catatan Penting
+# Catatan Penting #
 
 * Menggunakan `system("cls")` yang cocok untuk Windows. Ganti dengan `system("clear")` jika Anda di Linux/macOS.
 * Menggunakan `getch()`. Jika ada error saat kompilasi, coba tambahkan `#include <conio.h>` di awal kode.
